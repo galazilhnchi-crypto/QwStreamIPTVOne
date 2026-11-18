@@ -16,7 +16,7 @@ Issue date: 18 November 2026
 | --- | --- |
 | Document name | IsoaPlayerIPTV_RTM_v1.1 |
 | Version | 1.1 |
-| Issue date | 16 November 2026 |
+| Issue date | 18 November 2026 |
 | Baseline document | IsoaPlayerIPTV_Requirements_v1.0 |
 | Document status | Reconciled traceability baseline - not an implementation or test report |
 
@@ -26,7 +26,7 @@ This matrix was prepared from the requirements document only. No implementation 
 
 | **Declared totals** | **Priority** | **Acceptance criteria** |
 | --- | --- | --- |
-| 85 requirements/constraints | MUST: 77  \|  SHOULD: 8 | 15 |
+| 86 requirements/constraints | MUST: 78  \\| SHOULD: 8 | 15 |
 
 # 1. Document Summary
 
